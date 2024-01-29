@@ -1,7 +1,6 @@
 /*
  * File: convert_hex.c
  * Auth: Benjamin alfayo
- * Oscar Obado
  */
 
 #include "main.h"
