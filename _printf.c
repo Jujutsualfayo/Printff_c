@@ -1,7 +1,6 @@
 /*
  * File: _printf.c
  * Auth: Benjamin ALFAYO
- * Oscar Obado
  */
 
 #include "main.h"
