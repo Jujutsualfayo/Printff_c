@@ -4,7 +4,7 @@
 .B _printf\fR \- formatted output conversion
 
 .SH SYNOPSIS
-.B #include \fB"holberton.h"
+.B #include \fB"main.h"
 
 .B int printf(const char *\fIformat\fB, ...);
 
@@ -227,11 +227,11 @@ int main(void)
 
 {
 
-	char *street = "Mission St.";
+	char *street = "Kitengela.";
 
-	char *city = "San Francisco",
+	char *city = "Nairobi",
 
-	char *state = "CA";
+	char *state = "ke";
 
 	printf("%d %s, %s, %s, %d\\n", 972, street, city, state, 94103);
 
